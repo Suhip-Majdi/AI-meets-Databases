@@ -1,6 +1,9 @@
 # AI meets Databases
 🔹 Turning raw data into intelligent insights — with just one question!
 
+Developed a Retail Sales Database in MySQL Workbench and built a Streamlit application that converts natural language into SQL queries using LangChain and Google Gemini. The system retrieves results instantly, making database insights accessible without SQL knowledge.
+
+
 A Retail Sales Database was created in MySQL Workbench with customer transactions, product categories, prices, and total amounts.
 Sample data was inserted to simulate sales records.
 
